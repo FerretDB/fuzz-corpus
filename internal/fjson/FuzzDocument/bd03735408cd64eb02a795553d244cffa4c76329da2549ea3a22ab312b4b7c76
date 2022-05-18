@@ -1,0 +1,2 @@
+go test fuzz v1
+string("\"\xfa0\xfa\xfa\xfa\xfa\xfa\xfa\x95\"")

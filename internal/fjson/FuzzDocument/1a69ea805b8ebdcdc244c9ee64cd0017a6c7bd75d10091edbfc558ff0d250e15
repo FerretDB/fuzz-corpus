@@ -1,0 +1,2 @@
+go test fuzz v1
+string("{\"$k\":[\"binary\",\"boole\":[{\"\",\"datetime\",\"do:\"\"],\"timestamp\":[{\"$t\":\"42\"},{\"$t*:\"0\"}]}")

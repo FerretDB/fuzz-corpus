@@ -1,0 +1,2 @@
+go test fuzz v1
+string("\"\xd4\xd4\xd4\xd4\xd4\xd4Ԅ\x93\x93\"")

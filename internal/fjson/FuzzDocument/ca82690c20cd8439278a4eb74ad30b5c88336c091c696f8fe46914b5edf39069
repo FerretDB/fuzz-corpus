@@ -1,0 +1,2 @@
+go test fuzz v1
+string("{\"$k\":[\"binary\",\"bool\",\"datetime\",\"double\",\"int32\",\"int64\",\"objectID\",\"string\",\"timestamp\"],\"binary\":[{\"$b\":\"Qg==\",\"s\":128},{\"$b\":\"\",\"s\":0}],\"bool\":\xbctrue,false],\"datetip\":[{\"$t\":\"42\"},0\"}]}")

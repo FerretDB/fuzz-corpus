@@ -1,0 +1,2 @@
+go test fuzz v1
+string("{\"$k\":[\"buildInfo\",\"lsid\",\"$db\"],\"buildInfo\":1,\"lsid\":{\"$k\":[\"id\"],\"id\":{s\":4}}oxnytKF1QMe456OjLsJWvg==\",\"s\":4}},\"$db\":\"admin\"}")
