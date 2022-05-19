@@ -1,0 +1,2 @@
+go test fuzz v1
+string("\"\xd1ѷѷηηŷѷηηηѷŷѷѷηη\"\xb70")

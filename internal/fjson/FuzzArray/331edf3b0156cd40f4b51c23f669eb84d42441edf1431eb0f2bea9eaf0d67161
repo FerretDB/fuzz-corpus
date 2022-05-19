@@ -1,0 +1,2 @@
+go test fuzz v1
+string("\"䝜㜜㝜㜝䝝䝜㝜㜝\"")
