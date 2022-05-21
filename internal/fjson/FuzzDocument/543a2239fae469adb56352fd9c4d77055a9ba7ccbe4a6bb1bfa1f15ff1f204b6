@@ -1,0 +1,2 @@
+go test fuzz v1
+string("\"\xd9ҐҐոҸҸҸҐҀݸҸҹҸҐոҐ\"\xb80")
