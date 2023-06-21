@@ -1,0 +1,3 @@
+go test fuzz v1
+string("0")
+string("\"\xf3\xbf\x92\xf3\xbf\x92\U000ff492\"")
