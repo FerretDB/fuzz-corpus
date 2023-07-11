@@ -1,3 +1,0 @@
-go test fuzz v1
-string("{\"$k\":[\"_id\",\"buildInfo\",\"lsid\",\"$db\"],\"_id\":\"handshake3\",\"buildInfo\":1,\"lsid\":{\"$k\":[\"id\"],\"id\":{\"$b\":\"oxnytKF1QMe45\x9d\x9d\x9d\x9d\x9d\x9d\x9d\x9dg==\",\"s\":4}},\"$db\":\"admin\"}")
-string("{\"type\":\"object\",\"properties\":{\"$db\":{\"type\":\"string\"},\"$k\":{\"type\":\"array\",\"items\":{\"type\":\"string\"}},\"_id\":{\"type\":\"string\"},\"buildInfo\":{\"type\":\"integer\",\"format\":\"int32\"},\"lsid\":{\"type\":\"object\",\"properties\":{\"$k\":{\"type\":\"array\",\"items\":{\"type\":\"string\"}},\"id\":{\"type\":\"object\",\"properties\":{\"$b\":{\"type\":\"string\",\"format\":\"byte\"},\"s\":{\"type\":\"integer\",\"format\":\"int32\"}}}}}},\"primary_key\":[\"_id\"]}")

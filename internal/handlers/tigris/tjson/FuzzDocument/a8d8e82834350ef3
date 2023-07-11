@@ -1,3 +1,0 @@
-go test fuzz v1
-string("0")
-string("\"00\xa4\xebǁ\x90\x8e0\"")

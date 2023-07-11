@@ -1,3 +1,0 @@
-go test fuzz v1
-string("0")
-string("{\"properties\":{\"\":{\"items\":{\"tYpe\":\"\xbc\"}}},\"p\xa2\xc9\xec\":[]}")

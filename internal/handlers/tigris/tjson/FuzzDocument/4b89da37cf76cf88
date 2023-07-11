@@ -1,3 +1,0 @@
-go test fuzz v1
-string("0")
-string("{\"\x8b\x9c\xd5\xd5\xd5\":[]}")

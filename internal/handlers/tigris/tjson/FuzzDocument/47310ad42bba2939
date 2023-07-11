@@ -1,3 +1,0 @@
-go test fuzz v1
-string("0")
-string("{}\x9a\x9a\x9a")

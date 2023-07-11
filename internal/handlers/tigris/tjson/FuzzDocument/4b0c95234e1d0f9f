@@ -1,3 +1,0 @@
-go test fuzz v1
-string("0")
-string("{\"\xf8\xf8\xf8\xf8\xf8\xf8\xf8\xf8\xe9\x9c\":[]}")

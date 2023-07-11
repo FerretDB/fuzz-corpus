@@ -1,3 +1,0 @@
-go test fuzz v1
-string("0")
-string("{\"properties\":{\"\":{\"0\":\"\",\"0\xca\xc8\xe9\xf600\x9e00\":\"\"},\"\":{\"tYpe\":\"\",\"properties\":{\"\":{\"tYpe\":\"\",\"items\":{\"tYpe\":\"\"}},\"\":{\"tYpe\":\"\",\"properties\":{\"\":{\"tYpe\":\"\",\"formAt\":\"\"},\"\":{\"tYpe\":\"\",\"formAt\":\"\"}}}}}},\"pr0\":[]}")

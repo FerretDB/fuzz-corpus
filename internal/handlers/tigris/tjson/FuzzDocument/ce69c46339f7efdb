@@ -1,3 +1,0 @@
-go test fuzz v1
-string("0")
-string("\"\xb9\xf0\xb9\xa40\"")
