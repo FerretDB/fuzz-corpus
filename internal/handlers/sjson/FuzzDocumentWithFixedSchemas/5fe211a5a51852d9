@@ -1,0 +1,2 @@
+go test fuzz v1
+string("{\"ismaster\":true,\"\":{},\"0\":[],\"1\":false}")
