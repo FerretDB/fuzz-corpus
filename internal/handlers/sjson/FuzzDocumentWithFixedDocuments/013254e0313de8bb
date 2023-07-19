@@ -1,0 +1,2 @@
+go test fuzz v1
+string("{\"$s\":{\"p\":{\"buildInfo\":{\"t\":\"int\"}},\"$k\":[\"buildInfo\",\"lsid\",\"\"]}}")
