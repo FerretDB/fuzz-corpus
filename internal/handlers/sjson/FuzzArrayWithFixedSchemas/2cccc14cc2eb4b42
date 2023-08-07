@@ -1,0 +1,2 @@
+go test fuzz v1
+string("[\"\",false,{},-70010.1e00100,0,0,null,\"\"]")
