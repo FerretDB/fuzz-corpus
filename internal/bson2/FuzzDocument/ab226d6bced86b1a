@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("Z(1\x00z'00X!9 XY")
