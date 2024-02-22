@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("E\x00\x00\x00172Z272A\xdd\a\x00\x00z71c\x000\x00\x00\x00\nAX9110008yCa11\"1\"17C971Z2)\xff\xff\xff\x80890 921xB7b\x00\x007")
