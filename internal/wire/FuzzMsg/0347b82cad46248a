@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("E\x00\x00\x00y$ 89021\xdd\a\x00\x00,0by\x000\x00\x00\x00\nA2C0!29708XY$81Ca21AA29C9X\x00daAB'B28cC82X2\x00\x002")
