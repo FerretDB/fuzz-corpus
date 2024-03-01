@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("\v+\xe8\xe7000+)/\xff0")

@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("10,000#00\v00&\xc00\xdb\xdb\xdb\xdb\xdb\xdb200\x00x")
